@@ -11,9 +11,5 @@ assignees: ''
 ---
 
 
-**Tarefas:**
----
-
-
 **Critérios de aceitação:**
 ---
